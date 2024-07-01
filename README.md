@@ -12,6 +12,7 @@ Sprint Planning: Setting clear goals and priorities for each iteration.
 Daily Stand-ups: Facilitating communication and quick problem-solving within the team.
 Sprint Reviews and Retrospectives: Reviewing progress, gathering feedback, and identifying areas for improvement.
 Backlog Grooming: Ensuring that the product backlog is up-to-date and prioritized according to business needs and user feedback.
+
 What does it mean to be a good team member in software development?
 
 Being a good team member in software development means actively contributing to the team's success through effective communication, collaboration, and a willingness to help others. It involves being accountable for your tasks, providing constructive feedback, and being open to receiving feedback. A good team member also shows adaptability to changing requirements and is committed to continuous learning and improvement. The ability to work well within an Agile framework, embracing roles and responsibilities, and fostering a supportive and productive team environment are essential traits of a good team member.
