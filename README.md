@@ -1,64 +1,63 @@
-CS-250: Interpreting User Needs and Applying Agile Development
-Project Overview
-This repository contains selected work from CS-250, focused on Agile development practices and interpreting user needs in software design. The materials demonstrate a foundational understanding of Scrum, iterative programming, and teamwork in a development environment. The content includes written reflections, a presentation, and analysis of Agile methods.
+# CS-250: Interpreting User Needs and Applying Agile Development
 
-Understanding User Needs and Translating Them into Code
-Interpreting user needs means identifying what users expect and value, and turning those insights into functional requirements. This involves:
+## Project Overview
 
-Direct communication (interviews, surveys)
+This repository contains selected work from CS-250, focusing on interpreting user needs and applying Agile development practices. The materials demonstrate a foundational understanding of Scrum, iterative software development, and collaborative team workflows. Contents include reflective writing, a presentation, and an Agile case analysis.
 
-Feedback from users and stakeholders
+---
 
-Observing user behavior or workflow challenges
+## Interpreting User Needs Through User Stories
 
-One of the most effective tools for this is the user story, a brief, structured statement from the user's perspective. It helps developers focus on delivering clear, functional value. User stories break down complex requirements into small, actionable units, making development more organized and user-focused.
+Understanding user needs means identifying the problems, goals, and expectations of the end user. This is accomplished through direct communication, feedback, and observation. 
 
-My Approach to Software Development
-My approach is iterative, collaborative, and guided by continuous improvement. I aim to build and refine software incrementally while maintaining responsiveness to user feedback and evolving needs.
+One of the most effective tools for translating these needs into actionable tasks is the user story. User stories describe a feature from the user's perspective and help break complex requirements into smaller, manageable units. This improves clarity, prioritization, and overall development focus.
 
-Agile methodology—particularly Scrum—guides this process. I incorporate the following practices into my workflow:
+---
 
-Sprint Planning: Define priorities and break work into short, achievable goals.
+## Development Approach and Agile Practices
 
-Daily Stand-Ups: Share progress, identify blockers, and adjust plans as needed.
+My approach to development is iterative and collaborative, centered on continuous feedback and adaptation. The Agile methodology, especially Scrum, supports this approach.
 
-Sprint Reviews & Retrospectives: Assess performance and gather feedback to refine future sprints.
+Key Agile practices I plan to incorporate in future development work include:
 
-Backlog Grooming: Keep work organized, prioritized, and aligned with business and user goals.
+- **Sprint Planning** – Define short-term goals and prioritize work.
+- **Daily Stand-Ups** – Communicate progress and surface blockers.
+- **Sprint Reviews & Retrospectives** – Evaluate what worked and what can be improved.
+- **Backlog Grooming** – Maintain an organized, prioritized backlog that reflects user needs.
 
-These processes ensure regular feedback, clear communication, and the ability to adapt quickly.
+These practices ensure a user-centered, flexible, and efficient development process.
 
-What It Means to Be a Strong Team Member in Software Development
-Being a good team member goes beyond writing code. It includes:
+---
 
-Communicating effectively and clearly
+## Team Collaboration in Software Development
 
-Collaborating across disciplines and roles
+Being a strong team member means more than writing clean code. It requires:
 
-Taking ownership of responsibilities
+- Clear, professional communication
+- Accountability and reliability
+- Willingness to give and receive constructive feedback
+- Adaptability to changing project needs
+- Active participation in Agile ceremonies
+- Continuous learning and improvement
 
-Supporting others and giving/receiving feedback
+Effective team collaboration supports high-quality, maintainable software and promotes a positive team culture.
 
-Staying adaptable to changing requirements
+---
 
-Continuously learning and improving
+## Repository Contents
 
-Working within Agile frameworks also means participating actively in team rituals and helping foster a positive and productive team environment.
+| File Name                                       | Description                                         |
+|------------------------------------------------|-----------------------------------------------------|
+| `README.md`                                    | Reflection on Agile development and team practices  |
+| `The Greate Agile Transition.docx`             | Case analysis on moving to Agile workflows          |
+| `The Key Features of Scrum-Agile Approach.pptx`| Presentation summarizing Scrum roles and principles |
 
-Repository Contents
-File Name	Description
-README.md	Project overview and Agile development reflection
-The Greate Agile Transition.docx	Case study on organizational shift to Agile
-The Key Features of Scrum-Agile Approach.pptx	Summary of Scrum roles, events, and principles
+---
 
-Skills Demonstrated
-Agile development and Scrum methodology
+## Skills Demonstrated
 
-Writing and analyzing user stories
-
-Reflective thinking about team collaboration and iteration
-
-Technical presentation and documentation
-
-Professional communication in a software context
-
+- Agile and Scrum methodology
+- User story writing and requirement interpretation
+- Iterative development and planning
+- Communication and reflection in software development
+- Technical writing and presentation skills
